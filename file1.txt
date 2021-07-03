@@ -1,1 +1,2 @@
-Hellow world
+Hello world!
+some line added in text file1
